@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBCFA465-32C7-45AC-A21E-7C37294F23E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Camelot-RK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>243CD3B5AFFD742BBDB107BD930A5BBABC2AD3A8</key>
+		<string>https://github.com/AndreasAppInMed/Camelot-RK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Camelot-RK/Camelot-RK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>243CD3B5AFFD742BBDB107BD930A5BBABC2AD3A8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndreasAppInMed/Camelot-RK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>243CD3B5AFFD742BBDB107BD930A5BBABC2AD3A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>243CD3B5AFFD742BBDB107BD930A5BBABC2AD3A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Camelot-RK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
